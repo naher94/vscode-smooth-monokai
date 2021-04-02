@@ -1,0 +1,21 @@
+{
+    "name": "vscode-smooth-monokai",
+    "displayName": "vscode-smooth-monokai",
+    "description": "A softer smoother variant of the classic monokai theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Smooth Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Smooth Monokai-color-theme.json"
+            }
+        ]
+    }
+}
